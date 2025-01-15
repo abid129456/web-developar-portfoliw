@@ -214,12 +214,12 @@ textarea{
      display: none;
 }
 @media screen and (max-width:576px) {
-    .skills-container,.resume-container,footer {
+    .skills-container,.resume-container,footer,.about {
        
        background-color: red;
        flex-direction: column;
      }
-     footer {
+     footer,.about secondary-bg {
         padding: 20px;
      }
      .footer-column{
