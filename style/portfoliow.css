@@ -182,7 +182,7 @@ footer input[type="text"]{
     border-radius: 5px;
     background-color: white ;
     display: block;
-    width: 90%;
+    width: 100%;
     padding: 10px 20px;
     margin-bottom: 24px;
     border: none;
@@ -192,7 +192,7 @@ footer input[type="email"]{
     border-radius: 5px;
     background-color: white ;
     display: block;
-    width: 90%;
+    width: 100%;
     padding: 10px 20px;
     margin-bottom: 24px;
     border: none;
@@ -202,7 +202,7 @@ textarea{
     border-radius: 5px;
     background-color: white ;
     display: block;
-    width: 90%;
+    width: 100%;
     padding: 10px 20px;
     margin-bottom: 24px;
     border: none; 
